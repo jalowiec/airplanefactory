@@ -2,6 +2,6 @@ package airplanefactory;
 
 public enum AirplaneModel {
 	
-	BOEING747, BOEING787;
+	B747, B787
 
 }
